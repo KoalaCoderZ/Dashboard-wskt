@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/4a/b1/f3/4ab1f36a1faa730ecf6315062c0c1590.jpg);
+    background-size: cover;
+}
+
+.text-bg-primary {
+    background-color: #002356 !important;
+    height: 1.5em;
+}
+
+.card {
+    background-color: rgb(221 227 235 / 95%);
+    margin: 5px 0px;
+}
